@@ -42,9 +42,3 @@ Dejo la BIOS extraída de la tablet canaima **TR10RS1** **original** y una **mod
 	Y soldarlo al conector sin aplicar demasiado calor para que no se suelte la soldadura de los pines de la BIOS
 	
 	![BIOS soldada para ser leída por el programador](img/IMG_20250527_224044.jpg)
-
-<div style="display: flexbox;">
-	<a href="https://www.paypal.com/ncp/payment/VACJKWHB3F4YS" target="_blank" >
-		<img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="width: 250px;"/>
-	</a>
-</div>
